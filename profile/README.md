@@ -1,6 +1,8 @@
 # Afroibex Technologies
 
-![Afroibex Technologies Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="Afroibex Technologies Logo" width="200">
+</p>
 
 Welcome to Afroibex Technologies! We are a dynamic and innovative company specializing in various technological services. From Mobile App Development to Network Installation, we strive to deliver top-notch solutions tailored to meet the needs of our clients.
 
@@ -30,25 +32,7 @@ Reliable networking infrastructure is crucial for seamless operations in today's
 
 Keep your systems running smoothly with our professional computer maintenance services. Whether it's troubleshooting, software updates, or hardware repairs, our technicians are here to provide prompt and reliable support.
 
-## Featured Products
 
-### 1. Smart Home Security System
-
-- **Description**: Protect your home with our advanced smart home security system. Includes motion detectors, door sensors, and a central control hub for comprehensive security monitoring.
-- **Price**: $299.99
-- **[Learn More](#)**
-
-### 2. E-Commerce Website Development Package
-
-- **Description**: Launch your online store with our customizable e-commerce website development package. Includes design, development, and integration of essential features for seamless online selling.
-- **Price**: Starting from $1999.99
-- **[Learn More](#)**
-
-### 3. Business Network Setup Service
-
-- **Description**: Establish a reliable and secure network infrastructure for your business with our professional network setup service. Includes installation, configuration, and optimization for maximum performance.
-- **Price**: Custom Quote
-- **[Learn More](#)**
 
 ## Why Choose Afroibex Technologies?
 
@@ -61,10 +45,12 @@ Keep your systems running smoothly with our professional computer maintenance se
 
 Ready to take your business to the next level? Contact us today to discuss your project requirements and discover how Afroibex Technologies can help you achieve your goals.
 
-- **Website**: [www.afroibextech.com](https://www.afroibextech.com)
+- **Website**: [www.afroibextech.com](https://www.afroibex.com)
 - **Email**: info@afroibextech.com
-- **Phone**: +1 (123) 456-7890
+- **Phone**: +251 922965252
+             +251 944314183
+             +251 922169424 
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/afroibex-technologies) | [Twitter](https://twitter.com/afroibextech) | [Facebook](https://www.facebook.com/afroibextech)
+Follow us on [LinkedIn](https://www.linkedin.com/company/afroibex-technologies) | [Twitter](https://twitter.com/afroibextech) | [Facebook](https://www.facebook.com/profile.php?id=61551890518044)
 
 Let's innovate together!
