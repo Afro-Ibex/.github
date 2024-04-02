@@ -45,7 +45,7 @@ Keep your systems running smoothly with our professional computer maintenance se
 
 Ready to take your business to the next level? Contact us today to discuss your project requirements and discover how Afroibex Technologies can help you achieve your goals.
 
-- **Website**: [www.afroibextech.com](https://www.afroibex.com)
+- **Website**: [www.afroibex.com](https://www.afroibex.com)
 - **Email**: info@afroibextech.com
 - **Phone**: +251 922965252
              +251 944314183
